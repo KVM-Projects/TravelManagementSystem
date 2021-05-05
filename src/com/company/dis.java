@@ -61,10 +61,6 @@ public class dis extends JFrame implements ActionListener {
         }
         add(table);
 
-        JScrollPane scrollPane = new JScrollPane(table, ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS, ScrollPaneConstants.HORIZONTAL_SCROLLBAR_ALWAYS);
-        scrollPane.setBounds(5, 145, 385, 505);
-        add(scrollPane);
-
         setLayout(null);
         setSize(412, 732);
         setLocation(500, 50);
@@ -87,7 +83,7 @@ public class dis extends JFrame implements ActionListener {
                 st.setString(1, value);
                 ResultSet rs = st.executeQuery();
                 table.setModel(DbUtils.resultSetToTableModel(rs));
-//                JOptionPane.showMessageDialog(null, "Record not Found");
+                JOptionPane.showMessageDialog(null, "Record not Found");
             } catch (Exception ex) {
                 ex.printStackTrace();
             }
