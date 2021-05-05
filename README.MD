@@ -38,7 +38,7 @@ It includes the following Actor-wise functionalities.
 
 ## JAVA Class Diagram
 <div style="text-align:center">
-    <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/UML%20class.svg">
+    <img src="https://raw.githubusercontent.com/KVM-Projects/TravelManagementSystem/main/xfiles/UML%20class.svg">
 </div>
 
 ## GUI Design
