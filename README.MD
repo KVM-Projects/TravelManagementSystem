@@ -68,15 +68,9 @@ It includes the following Actor-wise functionalities.
 |<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Add.jpeg">|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Book.jpeg">|
 
 
-### `Suppliers Inventory`
- <div style="text-align:center">
-    
-</div>
-
 ### `Flight Booking Process`
-<div style="text-align:center">
-    <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Splash.jpeg">
-</div> 
+![Basic_Layout](https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/bookTicket.gif)
+
 
 ### `Database Table`
 <div style="text-align:center">
