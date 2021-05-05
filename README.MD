@@ -53,7 +53,7 @@ It includes the following Actor-wise functionalities.
 |<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/adminLogin.jpeg">|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/admin.jpeg">|
 
 
-| `View from both Customer and Inventory supplier Information` | `View from both Customer and Inventory supplier Information` |
+| `Search from both Customer and Inventory supplier Information` | `View from both Customer and Inventory supplier Information` |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/search.jpeg">|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/view.jpeg">|
 
@@ -73,8 +73,6 @@ It includes the following Actor-wise functionalities.
 
 
 ### `Database Table`
-<div style="text-align:center">
-    <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/dbAdmin.jpeg">
-    <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/dbCustomer.jpeg">
-    <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/dbSupply.jpeg">
-</div> 
+| `Admin` | `Suppliers` | `Customer` |
+| ------- | ----------- | ---------- |
+|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/dbAdmin.jpeg">|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/dbSupply.jpeg">|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/dbCustomer.jpeg">|
