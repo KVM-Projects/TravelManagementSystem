@@ -43,11 +43,9 @@ It includes the following Actor-wise functionalities.
 
 ## GUI Design
 
-### `Home Page`
- <div style="text-align:center">
-    <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Splash.jpeg">
-    <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Home.jpeg">
-</div>
+| `Splash Screen` | `Home Page` |
+| ------------- | ----------------- |
+|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Splash.jpeg">|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Home.jpeg">|
 
 | `Admin Login` | `Admin Dashboard` |
 | ------------- | ----------------- |
