@@ -42,22 +42,27 @@ It includes the following Actor-wise functionalities.
 </div>
 
 ## GUI Design
- ### `Home Page`
+
+### `Home Page`
  <div style="text-align:center">
     <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Home.jpeg">
 </div>
+
 <div style="text-align:center">
     <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Splash.jpeg">
 </div>
- ### `Admin Login`
+
+### `Admin Login`
  <div style="text-align:center">
     <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Home.jpeg">
 </div>
+
 ### `Admin Dashboard`
 <div style="text-align:center">
     <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Splash.jpeg">
 </div>
- ### `Suppliers Inventory`
+
+### `Suppliers Inventory`
  <div style="text-align:center">
     <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Home.jpeg">
 </div>
