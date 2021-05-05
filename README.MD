@@ -63,7 +63,7 @@ It includes the following Actor-wise functionalities.
 
 ### `Suppliers Inventory`
  <div style="text-align:center">
-    <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Home.jpeg">
+    <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Add.jpeg">
 </div>
 
 ### `Flight Booking Process`
