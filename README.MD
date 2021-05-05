@@ -57,6 +57,10 @@ It includes the following Actor-wise functionalities.
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/search.jpeg">|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/view.jpeg">|
 
+| `Suppliers & Customer Signup` | `Suppliers & Customer Login` |
+| ------------- | ----------------- |
+|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/customerSignup.jpeg">|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/customerLogin.jpeg">|
+
 ### `Suppliers Inventory`
  <div style="text-align:center">
     <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Home.jpeg">
