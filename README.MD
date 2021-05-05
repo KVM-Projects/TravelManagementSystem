@@ -47,21 +47,30 @@ It includes the following Actor-wise functionalities.
 | ------------- | ----------------- |
 |<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Splash.jpeg">|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Home.jpeg">|
 
+
 | `Admin Login` | `Admin Dashboard` |
 | ------------- | ----------------- |
 |<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/adminLogin.jpeg">|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/admin.jpeg">|
+
 
 | `View from both Customer and Inventory supplier Information` | `View from both Customer and Inventory supplier Information` |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/search.jpeg">|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/view.jpeg">|
 
+
 | `Suppliers & Customer Signup` | `Suppliers & Customer Login` |
 | ------------- | ----------------- |
 |<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/customerSignup.jpeg">|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/customerLogin.jpeg">|
 
+
+| `Suppliers Inventory` | `Customer Booking` |
+| ------------- | ----------------- |
+|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Add.jpeg">|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Add.jpeg">|
+
+
 ### `Suppliers Inventory`
  <div style="text-align:center">
-    <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Add.jpeg">
+    
 </div>
 
 ### `Flight Booking Process`
