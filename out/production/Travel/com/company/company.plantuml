@@ -1,0 +1,319 @@
+@startuml
+
+title __COMPANY's Class Diagram__\n
+
+  namespace com.company {
+    class com.company.AdminLogin {
+        ~ ckvm : Color
+        ~ ctrip : Color
+        ~ hkvm : JLabel
+        ~ home : JButton
+        ~ htrip : JLabel
+        ~ lbg : JLabel
+        ~ lname : JLabel
+        ~ login : JLabel
+        ~ lpassword : JLabel
+        ~ submit : JButton
+        ~ tfname : JTextField
+        ~ tfpassword : JPasswordField
+        + actionPerformed()
+        ~ AdminLogin()
+    }
+  }
+  
+
+  namespace com.company {
+    class com.company.Book {
+        ~ DEPART : JComboBox
+        ~ DEST : JComboBox
+        ~ ID : JComboBox
+        ~ PACKAGE : JComboBox
+        ~ PRICE : int[]
+        ~ bexit : JButton
+        ~ breceipt : JButton
+        ~ breset : JButton
+        ~ btotal : JButton
+        ~ bview : JButton
+        ~ cel : JCheckBox
+        ~ ckvm : Color
+        ~ classprice : Double
+        ~ creturn : JCheckBox
+        ~ cti : JCheckBox
+        ~ ctrip : Color
+        ~ hkvm : JLabel
+        ~ home : JButton
+        ~ htrip : JLabel
+        ~ idepart : int
+        ~ iid : int
+        ~ lbg : JLabel
+        ~ ldeparture : JLabel
+        ~ ldestination : JLabel
+        ~ lname : JLabel
+        ~ lpackage : JLabel
+        ~ odepart : String[]
+        ~ odest : String[]
+        ~ oid : String[]
+        ~ opackage : String[]
+        ~ price : int
+        ~ sdest : String[]
+        ~ ta : JTextArea
+        ~ tempclass : Double
+        ~ tempprice : Double
+        ~ tfid : JTextField
+        ~ tfname : JTextField
+        ~ uname : String
+        ~ upass : String
+        + actionPerformed()
+        + itemStateChanged()
+        ~ Book()
+    }
+  }
+  
+
+  namespace com.company {
+    class com.company.CustomerLogin {
+        ~ ckvm : Color
+        ~ ctrip : Color
+        ~ hkvm : JLabel
+        ~ home : JButton
+        ~ htrip : JLabel
+        ~ lbg : JLabel
+        ~ lname : JLabel
+        ~ login : JButton
+        ~ lpassword : JLabel
+        ~ signUp : JButton
+        ~ submit : JButton
+        ~ tfname : JTextField
+        ~ tfpassword : JPasswordField
+        + actionPerformed()
+        ~ CustomerLogin()
+    }
+  }
+  
+
+  namespace com.company {
+    class com.company.CustomerSignUp {
+        ~ ckvm : Color
+        ~ ctrip : Color
+        ~ hkvm : JLabel
+        ~ home : JButton
+        ~ htrip : JLabel
+        ~ lbg : JLabel
+        ~ lemail : JLabel
+        ~ lname : JLabel
+        ~ login : JButton
+        ~ lpassword : JLabel
+        ~ lphone : JLabel
+        ~ signUp : JButton
+        ~ submit : JButton
+        ~ tfemail : JTextField
+        ~ tfname : JTextField
+        ~ tfpassword : JTextField
+        ~ tfphone : JTextField
+        + actionPerformed()
+        ~ CustomerSignUp()
+    }
+  }
+  
+
+  namespace com.company {
+    class com.company.Home {
+        ~ badmin : JButton
+        ~ bis : JButton
+        ~ buser : JButton
+        ~ ckvm : Color
+        ~ ctrip : Color
+        ~ hkvm : JLabel
+        ~ htrip : JLabel
+        ~ lbg : JLabel
+        ~ lfkvm : JLabel
+        ~ lfooter : JLabel
+        + actionPerformed()
+        ~ Home()
+    }
+  }
+  
+
+  namespace com.company {
+    class com.company.InventorySupplierLogin {
+        ~ ckvm : Color
+        ~ ctrip : Color
+        ~ hkvm : JLabel
+        ~ home : JButton
+        ~ htrip : JLabel
+        ~ lbg : JLabel
+        ~ lname : JLabel
+        ~ login : JButton
+        ~ lpassword : JLabel
+        ~ signUp : JButton
+        ~ submit : JButton
+        ~ tfname : JTextField
+        ~ tfpassword : JPasswordField
+        + actionPerformed()
+        ~ InventorySupplierLogin()
+    }
+  }
+  
+
+  namespace com.company {
+    class com.company.InventorySupplierSignUp {
+        ~ ckvm : Color
+        ~ ctrip : Color
+        ~ hkvm : JLabel
+        ~ home : JButton
+        ~ htrip : JLabel
+        ~ lbg : JLabel
+        ~ lemail : JLabel
+        ~ lname : JLabel
+        ~ login : JButton
+        ~ lpassword : JLabel
+        ~ lphone : JLabel
+        ~ signUp : JButton
+        ~ submit : JButton
+        ~ tfemail : JTextField
+        ~ tfname : JTextField
+        ~ tfpassword : JTextField
+        ~ tfphone : JTextField
+        + actionPerformed()
+        ~ InventorySupplierSignUp()
+    }
+  }
+  
+
+  namespace com.company {
+    class com.company.Splash {
+        ~ bJoinUs : JButton
+        ~ ckvm : Color
+        ~ ctrip : Color
+        ~ lfkvm : JLabel
+        ~ lfooter : JLabel
+        ~ li : JLabel
+        ~ lkvm : JLabel
+        ~ ltrip : JLabel
+        + actionPerformed()
+        {static} + main()
+        ~ Splash()
+    }
+  }
+  
+
+  namespace com.company {
+    class com.company.admin {
+        ~ bIS : JButton
+        ~ bcustomer : JButton
+        ~ ckvm : Color
+        ~ ctrip : Color
+        ~ hkvm : JLabel
+        ~ home : JButton
+        ~ htrip : JLabel
+        ~ lbg : JLabel
+        ~ lfkvm : JLabel
+        ~ lfooter : JLabel
+        + actionPerformed()
+        ~ admin()
+    }
+  }
+  
+
+  namespace com.company {
+    class com.company.conn {
+        ~ Url : String
+        ~ c : Connection
+        ~ s : Statement
+        + conn()
+    }
+  }
+  
+
+  namespace com.company {
+    class com.company.dcustomer {
+        ~ bsearch : JButton
+        ~ ckvm : Color
+        ~ ctrip : Color
+        ~ hkvm : JLabel
+        ~ home : JButton
+        ~ htrip : JLabel
+        ~ lsearch : JTextField
+        ~ table : JTable
+        ~ value : String
+        + actionPerformed()
+        ~ dcustomer()
+    }
+  }
+  
+
+  namespace com.company {
+    class com.company.dis {
+        ~ bsearch : JButton
+        ~ ckvm : Color
+        ~ ctrip : Color
+        ~ hkvm : JLabel
+        ~ home : JButton
+        ~ htrip : JLabel
+        ~ lsearch : JTextField
+        ~ table : JTable
+        ~ value : String
+        + actionPerformed()
+        ~ dis()
+    }
+  }
+  
+
+  namespace com.company {
+    class com.company.supply {
+        ~ add : JButton
+        ~ ckvm : Color
+        ~ ctrip : Color
+        ~ hkvm : JLabel
+        ~ home : JButton
+        ~ htrip : JLabel
+        ~ lbg : JLabel
+        ~ lbuck : JLabel
+        ~ ldepart : JLabel
+        ~ ldest : JLabel
+        ~ lfkvm : JLabel
+        ~ lfooter : JLabel
+        ~ tfbuck : JTextField
+        ~ tfdepart : JTextField
+        ~ tfdest : JTextField
+        + actionPerformed()
+        ~ supply()
+    }
+  }
+  
+
+  com.company.AdminLogin .up.|> java.awt.event.ActionListener
+  com.company.AdminLogin -up-|> javax.swing.JFrame
+  com.company.Book .up.|> java.awt.event.ActionListener
+  com.company.Book .up.|> java.awt.event.ItemListener
+  com.company.Book -up-|> javax.swing.JFrame
+  com.company.CustomerLogin .up.|> java.awt.event.ActionListener
+  com.company.CustomerLogin -up-|> javax.swing.JFrame
+  com.company.CustomerSignUp .up.|> java.awt.event.ActionListener
+  com.company.CustomerSignUp -up-|> javax.swing.JFrame
+  com.company.Home .up.|> java.awt.event.ActionListener
+  com.company.Home -up-|> javax.swing.JFrame
+  com.company.InventorySupplierLogin .up.|> java.awt.event.ActionListener
+  com.company.InventorySupplierLogin -up-|> javax.swing.JFrame
+  com.company.InventorySupplierSignUp .up.|> java.awt.event.ActionListener
+  com.company.InventorySupplierSignUp -up-|> javax.swing.JFrame
+  com.company.Splash .up.|> java.awt.event.ActionListener
+  com.company.Splash -up-|> javax.swing.JFrame
+  com.company.admin .up.|> java.awt.event.ActionListener
+  com.company.admin -up-|> javax.swing.JFrame
+  com.company.dcustomer .up.|> java.awt.event.ActionListener
+  com.company.dcustomer -up-|> javax.swing.JFrame
+  com.company.dis .up.|> java.awt.event.ActionListener
+  com.company.dis -up-|> javax.swing.JFrame
+  com.company.supply .up.|> java.awt.event.ActionListener
+  com.company.supply -up-|> javax.swing.JFrame
+
+
+right footer
+
+
+PlantUML diagram generated by SketchIt! (https://bitbucket.org/pmesmeur/sketch.it)
+For more information about this tool, please contact philippe.mesmeur@gmail.com
+endfooter
+
+@enduml
