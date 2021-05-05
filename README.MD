@@ -73,6 +73,6 @@ It includes the following Actor-wise functionalities.
 
 
 ### `Database Table`
-| `Admin` | `Suppliers` | `Customer` |
+| `Admin` | `Supplier` | `Customer` |
 | ------- | ----------- | ---------- |
 |<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/dbAdmin.jpeg">|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/dbSupply.jpeg">|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/dbCustomer.jpeg">|
