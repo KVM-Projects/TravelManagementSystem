@@ -69,12 +69,6 @@ It includes the following Actor-wise functionalities.
 ### `Database Table`
 <div style="text-align:center">
     <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/dbAdmin.jpeg">
-</div> 
-
-<div style="text-align:center">
     <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/dbCustomer.jpeg">
-</div> 
-
-<div style="text-align:center">
     <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/dbSupply.jpeg">
 </div> 
