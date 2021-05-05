@@ -65,7 +65,7 @@ It includes the following Actor-wise functionalities.
 
 | `Suppliers Inventory` | `Customer Booking` |
 | ------------- | ----------------- |
-|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Add.jpeg">|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Add.jpeg">|
+|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Add.jpeg">|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Book.jpeg">|
 
 
 ### `Suppliers Inventory`
