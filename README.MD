@@ -54,7 +54,7 @@ It includes the following Actor-wise functionalities.
 <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Home.jpeg">
 </div>
 
-| `Admin Login` | `Admin Dashboard` |
+### | `Admin Login` | `Admin Dashboard` |
 | ------------- | ----------------- |
 |<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/adminLogin.jpeg">|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/admin.jpeg">|
 
