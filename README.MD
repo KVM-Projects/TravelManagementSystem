@@ -52,15 +52,9 @@ It includes the following Actor-wise functionalities.
     <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Splash.jpeg">
 </div>
 
-### `Admin Login`
- <div style="text-align:center">
-    <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Home.jpeg">
-</div>
-
-### `Admin Dashboard`
-<div style="text-align:center">
-    <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Splash.jpeg">
-</div>
+| `Admin Login` | `Admin Dashboard` |
+| ------------- | ----------------- |
+|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Home.jpeg">|<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Splash.jpeg">|
 
 ### `Suppliers Inventory`
  <div style="text-align:center">
