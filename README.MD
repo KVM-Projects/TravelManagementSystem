@@ -46,10 +46,12 @@ It includes the following Actor-wise functionalities.
 ### `Home Page`
  <div style="text-align:center">
     <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Home.jpeg">
+    <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Splash.jpeg">
 </div>
 
+### `Admin Login`
 <div style="text-align:center">
-    <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Splash.jpeg">
+<img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/Home.jpeg">
 </div>
 
 | `Admin Login` | `Admin Dashboard` |
