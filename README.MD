@@ -32,3 +32,13 @@ It includes the following Actor-wise functionalities.
 `Development environment/tools`: INTELLIJ IDEA and WampServer.
 
 ## UML Diagrams
+<div style="text-align:center">
+    <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/UML%20case.png">
+</div>
+
+## CLASS Diagrams
+<div style="text-align:center">
+    <img src="https://github.com/KVM-Projects/TravelManagementSystem/blob/main/xfiles/UML%20class.svg">
+</div>
+
+## GUI Design
